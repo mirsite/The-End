@@ -1,0 +1,88 @@
+BODY {
+ background:url(https://cdn.discordapp.com/attachments/959547792550940743/995418284180643880/1593793445_38-p-2d-foni-60.jpg);
+ background-repeat:none;
+ text-align: center;
+ background-color: rgb(0, 0, 0);
+ margin-left: 90px;
+ margin-right: 90px;
+}
+.conteiner {
+    max-width: 1024px;
+    width: 100%;
+    margin:0 auto;
+}
+
+.main {
+    background-color: rgb(218, 236, 252);
+    padding: 55px;
+    margin: 100px;
+    border-radius: 15px;
+   
+}
+
+h1 {
+    color: rgba(114, 34, 34, 0.712);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    color: rgba(56, 56, 56, 0.781);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+i {
+    color: rgba(155, 76, 62, 0.863);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+h3{
+
+    color: rgb(56, 56, 56, 0.781);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    background-color: rgb(218, 236, 252);
+    padding: 55px;
+    margin: 100px;
+    border-radius: 15px;
+
+}
+ 
+h4{
+  
+  letter-spacing: 0.2em;
+  border: 3px solid;
+  border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+  border-image-slice: 1;
+  background-color: rgb(218, 236, 252);
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-shadow:2px 2px 2px #fa5a82;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-bottom: 15px;
+margin-top: 50px; 
+
+
+}
+
+h5{
+    padding: 20px;
+    letter-spacing: 0.2em;
+    border: 3px solid;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+    background-color: rgb(218, 236, 252);
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px;
+    padding-top:0px;
+    padding-bottom:25px;
+    text-shadow:2px 2px 2px #fa5a82;
+}
+
+
